@@ -4,7 +4,9 @@ learning GIT
 
 Modifying for the first time
 
+hello
 
+clone2
 
 now adding branch 2020
 
@@ -12,9 +14,14 @@ now adding branch 2020
 adding one more modification
 
 
+
 intesrting in the original 
 
 
 
 cloning the git
+
+
+fine1
+fine2
 
